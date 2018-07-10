@@ -164,3 +164,5 @@ if (require.main === module) {
 }
 
 module.exports = { app, runServer, closeServer };
+
+mongo ds233581.mlab.com:33581/rpinto-restaurants-app -u my-new-user -p user-password1
